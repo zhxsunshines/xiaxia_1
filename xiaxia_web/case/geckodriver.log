@@ -1,0 +1,646 @@
+1552547290113	geckodriver	INFO	Listening on 127.0.0.1:19181
+1552547293155	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552547293858	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547297756	Marionette	INFO	Listening on port 19190
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547298395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552547358956	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1552547359689	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552547411623	Marionette	INFO	Ceased listening
+0.0.1:19252
+1552547409426	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552547410191	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547413635	Marionette	INFO	Listening on port 19260
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547414748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552547462354	Marionette	INFO	Ceased listening
+1552547659524	geckodriver	INFO	Listening on 127.0.0.1:19332
+1552547662594	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552547663332	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547667207	Marionette	INFO	Listening on port 19342
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547667867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552547673166	Marionette	INFO	Ceased listening
+1552547912293	geckodriver	INFO	Listening on 127.0.0.1:19440
+1552547915351	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552547916156	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547919839	Marionette	INFO	Listening on port 19449
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552547920623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552547924505	Marionette	INFO	Ceased listening
+1552548034359	geckodriver	INFO	Listening on 127.0.0.1:19498
+1552548037446	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552548038269	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552548041808	Marionette	INFO	Listening on port 19506
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552548042721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552548048847	Marionette	INFO	Ceased listening
+1552548061850	geckodriver	INFO	Listening on 127.0.0.1:19545
+1552548064904	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552548065585	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552548069074	Marionette	INFO	Listening on port 19554
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552548070166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552548074041	Marionette	INFO	Ceased listening
+1552549669885	geckodriver	INFO	Listening on 127.0.0.1:20069
+1552549672941	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552549673681	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552549677625	Marionette	INFO	Listening on port 20077
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552549678245	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552549702435	Marionette	INFO	Ceased listening
+1552549704550	geckodriver	INFO	Listening on 127.0.0.1:20136
+1552549707612	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552549708313	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552549711981	Marionette	INFO	Listening on port 20147
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552549712869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552549772503	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1552549773372	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552551080579	Marionette	INFO	Ceased listening
+urce://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550333751	Marionette	INFO	Listening on port 20456
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550334283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552550388242	Marionette	INFO	Ceased listening
+1552550448639	geckodriver	INFO	Listening on 127.0.0.1:20561
+1552550451698	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552550452436	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550455898	Marionette	INFO	Listening on port 20569
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550456980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552550503103	Marionette	INFO	Ceased listening
+1552550599730	geckodriver	INFO	Listening on 127.0.0.1:20655
+1552550602747	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552550603481	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550607006	Marionette	INFO	Listening on port 20663
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552550607984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552550668177	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1552550668933	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552551085289	Marionette	INFO	Ceased listening
+0.0.1:20867
+1552551078489	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552551079242	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551083393	Marionette	INFO	Listening on port 20876
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551083744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552551125903	Marionette	INFO	Ceased listening
+1552551544767	geckodriver	INFO	Listening on 127.0.0.1:21031
+1552551547843	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552551548604	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551552708	Marionette	INFO	Listening on port 21040
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551553086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552551613827	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1552551614561	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552551619179	Marionette	INFO	Ceased listening
+1552551778036	geckodriver	INFO	Listening on 127.0.0.1:21150
+1552551781094	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552551781828	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551785632	Marionette	INFO	Listening on port 21158
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552551786487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552551846768	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1552551847529	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552554024273	Marionette	INFO	Ceased listening
+1552612834202	geckodriver	INFO	Listening on 127.0.0.1:36967
+1552612837185	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552612838062	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552612841777	Marionette	INFO	Listening on port 37007
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552612842546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line1552612900792	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with ar1552612906936	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552612907374	Marionette	INFO	Ceased listening
+EGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552612905506	Marionette	INFO	Listening on port 37825
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552612906171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552612988421	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552613442767	Marionette	INFO	Ceased listening
+0.0.1:38738
+1552613441095	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552613442185	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552613446395	Marionette	INFO	Listening on port 38747
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552613446778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552613508054	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552613508270	Marionette	INFO	Ceased listening
+1552613920379	geckodriver	INFO	Listening on 127.0.0.1:38901
+1552613923393	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552613924264	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552613927807	Marionette	INFO	Listening on port 38909
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552613928713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552614011520	addons.productaddons	WARN	Failed downloading v1552614013281	geckodriver::marione1552614033615	Marionette	INFO	Ceased listening
+ozilla Firefox\firefox.exe with args ["-marionette"]
+1552614014311	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614018376	Marionette	INFO	Listening on port 39004
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614018776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552614039020	Marionette	INFO	Ceased listening
+1552614174296	geckodriver	INFO	Listening on 127.0.0.1:39092
+1552614177366	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552614178188	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614181877	Marionette	INFO	Listening on port 39100
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614182686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552614265031	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552614498481	Marionette	INFO	Ceased listening
+0.0.1:39226
+1552614498535	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552614499357	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614503565	Marionette	INFO	Listening on port 39234
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614503986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552614560294	Marionette	INFO	Ceased listening
+1552614675231	geckodriver	INFO	Listening on 127.0.0.1:39389
+1552614678290	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552614679144	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614683063	Marionette	INFO	Listening on port 39397
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552614683625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552614752686	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552614753061	Marionette	INFO	Ceased listening
+1552615073020	geckodriver	INFO	Listening on 127.0.0.1:39614
+1552615076067	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552615076880	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615080931	Marionette	INFO	Listening on port 39623
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615081579	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552615157668	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552615158399	Marionette	INFO	Ceased listening
+EGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615141882	Marionette	INFO	Listening on port 39742
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615142642	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552615157263	Marionette	INFO	Ceased listening
+1552615338138	geckodriver	INFO	Listening on 127.0.0.1:39906
+1552615341185	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552615350778	geckodriver	INFO	Listening on 127.0.0.1:39919
+1552615353846	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552615354589	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615359034	Marionette	INFO	Listening on port 39927
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615359433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552615443790	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552615779626	Marionette	INFO	Ceased listening
+0.0.1:40177
+1552615772164	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552615773032	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615777003	Marionette	INFO	Listening on port 40186
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615777511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line1552615835795	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552615836611	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615840511	Marionette	INFO	Listening on port 40299
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552615841176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552615923333	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1552616513741	Marionette	INFO	Ceased listening
+AL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552616029459	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552616426389	geckodriver	INFO	Listening on 127.0.0.1:40756
+1552616429475	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552616430485	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616434190	Marionette	INFO	Listening on port 40764
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616434882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552616510066	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552616510430	Marionette	INFO	Ceased listening
+1552616531467	geckodriver	INFO	Listening on 127.0.0.1:40861
+1552616534511	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552616535320	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616539264	Marionette	INFO	Listening on port 40872
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616539908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552616606222	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552616606544	Marionette	INFO	Ceased listening
+1552616612683	geckodriver	INFO	Listening on 127.0.0.1:40977
+1552616615742	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552616616629	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616620305	Marionette	INFO	Listening on port 40985
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616621235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552616702884	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552616841071	geckodriver	INFO	Listening on 127.0.0.1:41121
+1552616844115	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552616845024	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616850626	geckodriver	INFO	Listening on 127.0.0.1:41140
+1552616853691	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552616854477	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616858708	Marionette	INFO	Listening on port 41149
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552616858974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552616941509	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552616958863	Marionette	INFO	Ceased listening
+1552627884262	geckodriver	INFO	Listening on 127.0.0.1:43864
+1552627887334	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552627888235	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552627892017	Marionette	INFO	Listening on port 43872
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552627892854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552627955166	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552627955491	Marionette	INFO	Ceased listening
+1552628007902	geckodriver	INFO	Listening on 127.0.0.1:43932
+1552628010947	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552628011813	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628015968	Marionette	INFO	Listening on port 43940
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628016453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628099168	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552628179235	Marionette	INFO	Ceased listening
+d: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628133482	Marionette	INFO	Listening on port 44070
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628134161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628177751	Marionette	INFO	Ceased listening
+1552628299690	geckodriver	INFO	Listening on 127.0.0.1:44160
+1552628302772	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552628303531	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628307863	Marionette	INFO	Listening on port 44169
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628308399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628390850	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552628508706	Marionette	INFO	Ceased listening
+0.0.1:44282
+1552628501691	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552628502449	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628506442	Marionette	INFO	Listening on port 44291
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628506929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628589384	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552628859165	Marionette	INFO	Ceased listening
+0.0.1:44431
+1552628859455	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552628860312	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628864260	Marionette	INFO	Listening on port 44439
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628864841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628902649	Marionette	INFO	Ceased listening
+1552628907197	geckodriver	INFO	Listening on 127.0.0.1:44522
+1552628910223	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552628911084	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628914929	Marionette	INFO	Listening on port 44535
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552628915598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552628998312	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552629027314	Marionette	INFO	Ceased listening
+1552629038996	geckodriver	INFO	Listening on 127.0.0.1:44640
+1552629042050	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552629042924	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629046643	Marionette	INFO	Listening on port 44648
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629047479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552629129499	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552629207976	Marionette	INFO	Ceased listening
+1552629230316	geckodriver	INFO	Listening on 127.0.0.1:44772
+1552629233375	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552629234232	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629237688	Marionette	INFO	Listening on port 44781
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629238671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552629322344	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629827527	Marionette	INFO	Ceased listening
+0.0.1:44974
+1552629791563	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552629792447	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629796423	Marionette	INFO	Listening on port 44982
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552629796953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552629823409	Marionette	INFO	Ceased listening
+1552630228325	geckodriver	INFO	Listening on 127.0.0.1:45137
+1552630231368	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552630232259	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552630236609	Marionette	INFO	Listening on port 45145
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552630237008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552630319618	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.js1552631078305	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552632558475	Marionette	INFO	Ceased listening
+x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552632556201	Marionette	INFO	Ceased listening
+Script error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1552632552891	geckodriver	INFO	Listening on 127.0.0.1:45986
+1552632555908	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552632556798	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552632560432	Marionette	INFO	Listening on port 45995
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552632561283	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552632643209	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552632664791	Marionette	INFO	Ceased listening
+1552633020500	geckodriver	INFO	Listening on 127.0.0.1:46248
+1552633023554	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552633024436	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633028425	Marionette	INFO	Listening on port 46256
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633028973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552633110589	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1552633110990	Marionette	INFO	Ceased listening
+ozilla Firefox\firefox.exe with args ["-marionette"]
+1552633107538	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633111697	Marionette	INFO	Listening on port 46373
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633112428	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552633180225	addons.productaddons	WARN	Failed downloading v1552633181252	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1552633182118	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633186438	Marionette	INFO	Listening on port 46466
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1552633186791	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+1552633269322	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
